@@ -1,0 +1,30 @@
+header{
+    background-color: yellow;
+    height: 300px;
+    background-image: url(img/selecao-brasileira-1-scaled.jpg);
+    background-position: 27% 25%;
+    
+}
+
+main{
+    background-color: violet;
+    height: auto;
+}
+
+aside{
+    background-color: darkmagenta;
+    height: 750px;
+}
+
+footer{
+    background-color: tomato;
+    height: 100px;
+}
+
+.btn-neymar{
+  margin-left: 450px;
+}
+
+.nav{
+    margin-top: 160px;
+}
