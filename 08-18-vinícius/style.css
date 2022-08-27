@@ -1,5 +1,4 @@
 header{
-    background-color: yellow;
     height: 300px;
     background-image: url(img/selecao-brasileira-1-scaled.jpg);
     background-position: 27% 25%;
@@ -7,24 +6,47 @@ header{
 }
 
 main{
-    background-color: violet;
     height: auto;
 }
 
 aside{
-    background-color: darkmagenta;
     height: 750px;
+    width: auto;
 }
 
 footer{
-    background-color: tomato;
     height: 100px;
 }
 
 .btn-neymar{
-  margin-left: 450px;
+  margin-left: 630px;
 }
 
 .nav{
-    margin-top: 160px;
+    margin-top: 265px;
+}
+
+.rounded-couto{
+  margin-top: 10px;
+}
+
+.rounded-rodrygo{
+    margin-top: 10px;
+    width: 260px;
+    height: 200px;
+}
+
+.rounded-martinelli{
+    margin-bottom: 1000px;
+    width: 220px;
+    height: 220px;
+    margin-left: 385px;
+}
+
+.rounded-militão{
+    margin-top: 10px;
+    margin-bottom: 300px;
+    width: 230px;
+    height: 240px;
+    margin-right: 376px;
 }
